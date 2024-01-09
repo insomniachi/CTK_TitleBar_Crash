@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "TitleBarCrash (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "TitleBarCrash (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}
